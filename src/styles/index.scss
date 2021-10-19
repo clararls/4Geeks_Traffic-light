@@ -11,3 +11,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.light{
+    width: 75%;
+    height: 100px;
+    color:white;
+}
+
+.selected {
+    box-shadow: 0 0 20px wheat;
+}
