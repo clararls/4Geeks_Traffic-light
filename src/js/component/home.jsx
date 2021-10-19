@@ -23,7 +23,7 @@ const TrafficLight = () => {
 					<div
 						className={
 							color == "green"
-								? " light bg-success mx-auto m-2 rounded-circle selected"
+								? "light bg-success mx-auto m-2 rounded-circle selected"
 								: "light bg-success mx-auto m-2 rounded-circle"
 						}
 						onClick={() => setColor("green")}></div>
